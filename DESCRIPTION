@@ -1,0 +1,8 @@
+Package: restrictr
+Type: Package
+Title: RestrictR
+Version: 1.0
+Date: 2017-10-26
+Authors@R: c(person("Konrad", "Siek", role = c("aut", "cre"), email = "konrad.siek@gmail.com"))
+Description: Makes execution of an expression strict by forcing promises at creation
+License: GPL-2
